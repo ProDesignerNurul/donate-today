@@ -1,0 +1,152 @@
+body{
+    margin: 0;
+    font-family: 'Righteous', cursive;
+}
+.margin-bottom{
+    margin-bottom: 100px;
+}
+
+/* Header section Start  */
+.header-area{
+    text-align: center;
+    padding: 50px 50px 100px 50px;
+    background-image: url(images/donation9.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.header-area h1{
+    font-size: 70px;
+    color: yellow;
+}
+.header-area p{
+    color: yellow;
+}
+.button-link{
+    text-decoration: none;
+    background-color: orangered;
+    padding: 10px 30px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+
+/* Donate Section Start  */
+.donate-area{
+    width: 60%;
+    margin: 0 auto;
+    text-align: center;
+    padding: 0 0 100px 0;
+}
+#donate-area-second-div{
+    display: flex;
+    justify-content: center;
+}
+#donate-area-second-div div{
+    height: 100px;
+    width: 100px;
+    background-color: beige;
+    margin: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#donate-area-first-div p{
+    color: darkgray;
+}
+#other-amount{
+    color: darkgray;
+}
+#donate-area-second-div #donate-tk{
+    background-color: rgb(255, 223, 144);
+    border: 2px solid orangered;
+}
+
+
+/* Our donate plan section start  */
+.our-donate-plan-area{
+    width: 70%;
+    margin: 0 auto;
+    padding: 0 0 100px 0;
+}
+#our-donate-plan-area-first-div{
+    text-align: center;
+}
+#our-donate-plan-area-second-div{
+    display: flex;
+    justify-content: center;
+}
+#our-donate-plan-area-second-div div {
+    width: 400px;
+    padding: 10px;
+    margin: 10px;
+}
+#our-donate-plan-area-first-div p{
+    color: darkgray;
+}
+#food{
+    background-color: rgb(215, 250, 215);
+}
+#shelter{
+    background-color: darkkhaki;
+}
+#education{
+    background-color: coral;
+}
+
+
+/* Poor Section Start  */
+.poor-area{
+    text-align: center;
+}
+.poor-story{
+    display: flex;
+    justify-content: center;
+}
+.poor-story div{
+    width: 30%;
+    margin: 0 20px;
+    box-shadow: 5px 5px 10px gray;
+}
+.poor-story img{
+    width: 100%;
+}
+.poor-area p{
+    color: darkgray;
+}
+.name-highlight{
+    color: black;
+}
+
+
+
+/* Subscribe section Start  */
+.subscribe-area{
+    text-align: center;
+    padding: 0 0 100px 0;
+}
+#email-box{
+    padding: 12px 10px;
+    background-color: darkgray;
+    color:azure ;
+    border: 2px solid orangered;
+    border-radius: 5px;
+}
+#subscribe-btn{
+    width: 50%;
+    margin: 0 auto;
+    border-radius: 10px;
+    padding: 50px 50px;
+    background-color: rgb(245, 225, 218);
+}
+
+
+
+/* Footer Section start  */
+.footer-area div{
+    width: 100%;
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
