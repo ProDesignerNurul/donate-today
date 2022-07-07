@@ -78,7 +78,7 @@ body{
 }
 #our-donate-plan-area-second-div div {
     width: 400px;
-    padding: 10px;
+    padding: 15px;
     margin: 10px;
 }
 #our-donate-plan-area-first-div p{
@@ -138,6 +138,9 @@ body{
     border-radius: 10px;
     padding: 50px 50px;
     background-color: rgb(245, 225, 218);
+}
+.subscribe-area p{
+    color: darkgray;
 }
 
 
